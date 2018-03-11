@@ -1,0 +1,61 @@
+"Phrases" {
+	
+	"Weapon Modifier Changed" {
+		"en"		"Weapon Modifier Changed Successfully!"
+	}
+
+	"Bad Weapon Modifier" {
+		"en"		"Weapon Modifier Failed! <Bad Weapon Modifier>"
+	}
+
+	"Bad Scale" {
+		"en"		"Bad Scale Value!"
+	}
+
+	"Banner" {
+		"en"		"Disturbed: "
+	}
+
+	"Banner Bar On" {
+		"en"		"Disturbed "
+	}
+
+	"Banner Bar Off" {
+		"en"		"Disturbed(OFF) "
+	}
+
+	"Advertise Line 1" {
+		"en"		"Quiet!..."
+	}
+
+	"Advertise Line 2" {
+		"en"		"Your gunshots are attracting the horde!!!..."
+	}
+	
+	"Advertise Line 3" {
+		"en"		"type /disturbed for details..."
+	}
+
+	"Linear Scaling" {
+		"#format" 	"{1:f}"
+		"en"		"Linear Rate Scaling Enabled! <{1}>"
+	}
+
+	"Logarithmic Scaling" {
+		"#format" 	"{1:f}"
+		"en"		"Logarithmic Rate Scaling Enabled! <{1}>"
+	}
+
+	"Exponential Scaling" {
+		"#format" 	"{1:f}"
+		"en"		"Exponential Rate Scaling Enabled! <{1}>"
+	}
+
+	"Bot Exception Off" {
+		"en"		"Bot Exceptions Off!"
+	}
+
+	"Bot Exception On" {
+		"en"		"Bot Exceptions On!"
+	}
+}
