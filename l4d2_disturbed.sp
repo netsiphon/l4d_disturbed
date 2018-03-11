@@ -1,10 +1,10 @@
 /*
 *															
-*					L4D2 Disturbed						
-*					 by Darkness							
+*	L4D2 Disturbed						
+*	by Darkness							
 *															
 *  	Description: Zombies aren't attracted to fire and weapon noises
-*				 ...Until now!
+*	...Until now!
 * 
 */
 
